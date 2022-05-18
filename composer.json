@@ -1,0 +1,12 @@
+{
+    "name": "xendit/xendit-sdk-sample",
+    "description": "XENDIT PHP SDK example ",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": [
+        "xendit"
+    ],
+    "require": {
+        "xendit/xendit-php": "^2.17.1"
+    }
+}
